@@ -44,7 +44,7 @@ ProjectName
 - **Modelling** - Blender
 - **SFX**/**Music** - Optional
 
-# C`#`
+# C#
 ## General
 - Always use namespaces, you can add the current `class` to the proper `namespace` by placing cursor over the `class name`, clicking `ctrl`+`.` and adding it to the namespace
 - Add the **type suffix** to **properties**, **fields** and **variables**, example of that would be `playerTransform` instead of `player`

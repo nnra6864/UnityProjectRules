@@ -38,11 +38,11 @@ ProjectName
             └── ProjectSettings
 ```
 # Software
-**Game Engine** - Unity <br/>
-**IDE** - Optional <br/>
-**Image Editing** - Krita <br/>
-**Modelling** - Blender <br/>
-**SFX**/**Music** - Optional <br/>
+- **Game Engine** - Unity
+- **IDE** - Optional
+- **Image Editing** - Krita
+- **Modelling** - Blender
+- **SFX**/**Music** - Optional
 
 # C`#`
 ## General
